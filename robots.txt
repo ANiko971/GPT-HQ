@@ -1,8 +1,7 @@
 User-agent: *
 Allow: /
 
-# Block GitHub Pages system folders
-Disallow: /assets/
+# Block GitHub Pages system files
 Disallow: /CNAME
 Disallow: /README.md
 
