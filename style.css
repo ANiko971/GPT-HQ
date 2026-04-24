@@ -507,3 +507,39 @@ footer {
 #sites {
     scroll-margin-top: 140px;
 }
+/* Improve SEO text section */
+.seo-text {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 18px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.seo-text h2 {
+    font-size: 1.4rem;
+    margin-top: 28px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.seo-text h2::before {
+    content: "⭐";
+    font-size: 1.2rem;
+}
+
+.seo-text p {
+    margin-bottom: 14px;
+    font-size: 1rem;
+}
+
+/* Optional soft background box */
+.seo-box {
+    background: #f7f7f7;
+    padding: 18px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #e5e5e5;
+}
