@@ -8,7 +8,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Tracking Setup -->
+  <!-- Tracking Setup Guide -->
   <url>
     <loc>https://gpt-hq.org/trackingsetup/</loc>
     <changefreq>weekly</changefreq>
@@ -29,7 +29,7 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Terms -->
+  <!-- Terms & Privacy -->
   <url>
     <loc>https://gpt-hq.org/terms/</loc>
     <changefreq>yearly</changefreq>
